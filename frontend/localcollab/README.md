@@ -143,7 +143,6 @@ We welcome contributions! Here’s how you can get started:
 6. **Create a pull request**.
 
 ### Contribution Guidelines
-
 - Please make sure your code follows the project’s coding style.
 - Write meaningful commit messages.
 - Ensure that your code is well-documented and includes relevant tests.
